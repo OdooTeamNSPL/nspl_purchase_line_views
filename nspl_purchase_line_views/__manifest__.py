@@ -24,7 +24,7 @@
         'views/purchase_order_line_views.xml',
         'views/rfq_line_views.xml',
     ],
-    'images': ['static/description/banner.jpg'],
+    'images': ['static/description/img/banner.png'],
     'installable': True,
     'auto_install': False,
     'application': False,
