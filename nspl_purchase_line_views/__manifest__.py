@@ -1,6 +1,6 @@
 {
     'name': 'Purchase Order Line View',
-    'version': '18.0',
+    'version': '19.0.1',
     'summary': """
     Access purchase order lines and RFQs through various intuitive views.
     """,
@@ -24,7 +24,7 @@
         'views/purchase_order_line_views.xml',
         'views/rfq_line_views.xml',
     ],
-    'images': ['static/description/img/banner.png'],
+    'images': ['static/description/banner.jpg'],
     'installable': True,
     'auto_install': False,
     'application': False,
